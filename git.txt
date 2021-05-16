@@ -1,4 +1,7 @@
 Welcome to Git Traning!!
  Initialize repo
   git init 
-
+  
+Move the file from untracked/unstaged to staged area
+ single file= git add <file name>
+ multiple files=  git add
