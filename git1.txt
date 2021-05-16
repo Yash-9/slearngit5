@@ -1,7 +1,16 @@
 Welcome to Git Traning!!
+
+Installing Git
+ sudo apt-get update
+ sudo apt-get install Git
+
+Verifying the installation
+ git --version
+
  Initialize repo
   git init 
   
 Move the file from untracked/unstaged to staged area
  single file= git add <file name>
  multiple files=  git add
+
