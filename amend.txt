@@ -1,1 +1,2 @@
-amend
+welcome 
+learn amend command
