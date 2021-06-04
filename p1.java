@@ -4,5 +4,8 @@ public class p1{
           system.out.print("welcome to my project");
           system.out.print("========");
       }
+      public static data(){
+          //add your data here
+      }
 
 }
